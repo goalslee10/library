@@ -8,6 +8,6 @@
 
 ## Stacks
 
-IDE: Eclipse(2021-03)
-DB: MySQL(v8.0.30)
-Spring(v5.3.14), CSS, JPA
+IDE: Eclipse(2021-03)<br></br>
+DB: MySQL(v8.0.30)<br></br>
+Spring(v5.3.14), CSS, JPA<br></br>
