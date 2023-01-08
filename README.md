@@ -10,7 +10,7 @@
 
 IDE: Eclipse(2021-03)<br></br>
 DB: MySQL(v8.0.30)<br></br>
-Spring(v5.3.14), CSS, JPA<br></br>
+MavenProject, Spring(v5.3.14), CSS, JPA<br></br>
 
 ## 기능 구현
 메인페이지 - 도서 등록이나 조회 가능<br></br>
